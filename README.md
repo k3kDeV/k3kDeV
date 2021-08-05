@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A hobbyist programmer from Poland</h3>
 
-- 🌱 I’m currently learning **everything 🤣**
+- 🌱 I’m currently **learning everything 🤣**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m searching **for motivation**
 
-- 👯 I'm looking for a team to code together **Minecraft Mods or Plugins**
+- 👯 I'm looking **for a team to code together Minecraft Mods or Plugins**
 
 - 🥅 2020 Goals: **Contribute more to Open Source projects**
 
