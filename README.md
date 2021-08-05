@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently **learning everything 🤣**
 
-- 🌱 I’m searching **for motivation**
+- 🔍 I’m searching **for motivation**
 
 - 👯 I'm looking **for a team to code together Minecraft Mods or Plugins**
 
