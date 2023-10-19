@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dominik</h1>
 <h3 align="center">A hobbyist programmer from Poland</h3>
 
-- 🌱 I’m currently **learning everything 🤣**
+- 🌱 I’m currently **learning FLUTTER**
 
 - 🔍 I’m searching **for motivation**
 
-- 👯 I'm looking **for a team to code together Minecraft Mods or Plugins**
+- 👯 I'm looking **for a team to code together**
 
-- 🥅 2020 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 
 - ⚡ Fun fact: **I love mountain biking and motorcykling**
 
