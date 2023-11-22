@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently **learning FLUTTER**
 
-- 🔍 I’m searching **for motivation**
-
 - 👯 I'm looking **for a team to code together**
 
 - 🥅 2024 Goals: **Contribute more to Open Source projects**
